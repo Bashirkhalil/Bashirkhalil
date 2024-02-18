@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bashirkhalil Eshak AHmed 
-- 👀 I’m an Software Engineer at with Java - Kotlin - Flutter ( Mobile - API )
+- 👋 Hi, I’m @Bashirkhalil Eshak Ahmed 
+- 👀 I’m an Software Engineer at with Java - Kotlin - Flutter .
 - 🌱 I’m currently learning advanced android for creating hight quality product .
 - 💞️ I’m looking to collaborate on kafka and socket.io infrastructure  .
 - 📫 How to reach me via Linkedin Account 
